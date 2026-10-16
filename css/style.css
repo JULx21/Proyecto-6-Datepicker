@@ -1,0 +1,19 @@
+/*Body*/
+.barra-supP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.barra-sup{
+    display: flex;
+    border:1px solid #1111;
+}
+
+.btn-cal{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid;
+}
